@@ -6,9 +6,9 @@ Awesome Learn is an open-source project that provides structured, curated learni
 🎯 **Focus:** AI, programming, decentralized systems, sustainability, digital skills, travel, and modern web ecosystems.  
 
 > **Part of the Awesome Ecosystem:**  
-> • **[Awesome Lists](https://github.com/awesomelistsio/awesome)** — discover the best tools & resources  
 > • **Awesome Learn** — learn topics step-by-step with clarity and guidance  
-> • **[Awesome Lists for Travelers](https://github.com/brandontravel/awesome)** — curated tools, guides & data for travelers and digital nomads  
+> • **[Awesome Lists](https://github.com/awesomelistsio/awesome)** — discover the best tools & resources  
+> • **[Awesome Travel](https://github.com/brandontravel/awesome)** — curated tools, guides & data for travelers and digital nomads  
 
 Together, these projects form the **Awesome Learning Ecosystem**: a unified way to explore, learn, and apply knowledge.
 
